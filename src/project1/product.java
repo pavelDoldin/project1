@@ -1,6 +1,6 @@
 package project1;
 
-public class product {
+public class Product {
 
     private String name;
 
